@@ -1,0 +1,6 @@
+Ctrl-s : Save
+Ctrl-o : Open
+Ctrl-l : Add Symbol
+Ctrl-q : View Symbol
+Ctrl-n : New
+Ctrl-c : Shortcuts
